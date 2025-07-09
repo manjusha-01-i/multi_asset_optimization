@@ -10,5 +10,12 @@ How It Works:
 4. Identifies portfolio with highest Sharpe ratio
 5. Visualizes Efficient Frontier with optimal portfolio highlighted
 
+Assumptions:
+1. Risk-free rate = 2%
+2. Ignore transaction costs, taxes, and other real-world constraint
+
+Time horizon:
+1. Used 10 year data start date = 01/01/2014, end date = 31/12/2024
+
 
 
